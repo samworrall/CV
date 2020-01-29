@@ -4,14 +4,14 @@
 
 [My Linkedin](https://www.linkedin.com/in/sam-worrall-b653a012b/)
 
-A junior developer with an insatiable need to learn and master new skills. I have recently finished my time at Bristol University where I studied archaeology. Whilst this was an enjoyable experience, I always had a craving for more technical challenges, and now wish to leave the world of the past and explore the world of the future!
+A full stack developer with an insatiable need to learn and master new skills. I have recently (not so recent anymore) finished my time at Bristol University where I studied archaeology. Whilst this was an enjoyable experience, I always had a craving for more technical challenges, and now wish to leave the world of the past and explore the world of the future.
 
 I am searching for a role that constantly poses new challenges which can be solved using my creative and analytical skillset. The overall aim is to work on and contribute to big, important, innovative projects that take me to all manner of places.
 
-As a fresh graduate from Makers, I have a wide range of development skills under my belt which I am keen to nurture and add to!
+After working professionally for over a year, I have fine tuned and expanded upon the skills I gained from my time at Makers Academy, a 16 week coding bootcamp.
 
 
-## <a name="Projects">Projects</a>
+## <a name="Projects">Makers Projects</a>
 
 | Project | Description | Timeframe | Technologies | Testing Framework | Deployed App |
 |---|---|---|---|---|---|
@@ -25,17 +25,17 @@ As a fresh graduate from Makers, I have a wide range of development skills under
 
 I am an advocate for clean, DRY, readable, and adaptable code. I have learned that in the long run, this approach lowers the risk of mistakes having wide spread effect, and allows new features to be added with ease without breaking current tests.
 
-I believe that a TDD approach is integral to good software development. At makers, I have found that compliance to the ways of TDD have massively improved my ability to write efficient code, debug and gain visibility when faced with blockers.
+I believe that a TDD approach is integral to good software development. At makers and my current role, I have found that compliance to the ways of TDD have massively improved my ability to write efficient code, debug and gain visibility when faced with unexpected and unoforseeable edge cases.
 
 #### Debugging
 
-I take a very methodical approach to debugging techniques, an approach that I have learned and developed whilst at Makers. This approach helps me work through problems independently, and has also allowed me to help others who run into blockers.
+I take a very methodical approach to debugging techniques, an approach that I learned at Makers and have developed over the last year or so. This approach helps me work through problems independently, and has also allowed me to help others who run into blockers.
 
 #### Analysis and research
 
 I cultivated my analytical and research skills whilst at university. Essays that required hard source-based evidence along with a critical mindset made up a large part of the curriculum. The very nature of the degree gave me the opportunity to analyse and scrutinise not only the work of a range of scholars, but also my own.
 
-These skills have allowed me to learn independently, and hold my code to a high standard whilst at Makers Academy. Structured and intuitive research plays a key role when faced with problems, especially useful when I had to learn Rails and Node in a matter of days; and self criticism and analysis help maintain DRY and readable code.
+These skills have allowed me to learn independently, and I often use resources that are openly available to me such as Stack Overflow, official documentation, as well as Github to supplement my knowledge and help me reach a solution. Structured and intuitive research plays a key role when faced with problems, especially useful when I had to learn Rails and Node in a matter of days at Makers. These skills have continued to serve me through the beginning of my professional career.
 
 #### Customer service
 
@@ -47,9 +47,11 @@ I had the opportunity to work with many fellow students on collaborative project
 
 Whilst at Makers, I was able to hone these skills on multiple occasions, not only through pair programming, but whilst working as part of teams of up to 5 developers. I learned the value of keeping every team member up to speed with individual developments, so as to avoid knowledge gaps, as well as Agile and KanBan techniques.
 
+I currently work in a team of 3 back end developers, 1 front end developer and 1 designer as part of a larger tech team. Pairing is a large part of our work culture, not only within individual teams, but across multiple teams as well when the requirements deem it necessary. This has allowed me to work both with experienced seniors, as well as entry level Juniors.
+
 #### Independent learning
 
-During my second and third years at university I taught myself HTML, CSS, and basic Ruby and JavaScript as a hobby.
+During my second and third years at university I taught myself HTML, CSS, and basic Ruby and JavaScript as a hobby. Since working for Palatinate Tech, I have spent various Friday afternoons devling into other languages such as Python and C# whilst pairing with a friend of mine who is interested in securing a junior developer role. 
 
 ## <a name="Education">Education</a>
 
@@ -80,7 +82,7 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 ## <a name="Experience">Experience</a>
 
 **Palatinate Tech** (November 2018 to Present)    
-*Junior Developer(Ruby)* 
+*Full Stack Developer(Ruby)* 
 
 **British Heart Foundation** (October 2017 to February 2018)    
 *Sales Assistant*  
